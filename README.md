@@ -1,12 +1,9 @@
 # Laravel Realtime Chat
-[![Build Status](https://travis-ci.org/guilhermeslk/laravel-realtime-chat.svg?branch=master)](https://travis-ci.org/guilhermeslk/laravel-realtime-chat)
-[![Code Climate](https://codeclimate.com/github/guilhermeslk/laravel-realtime-chat/badges/gpa.svg)](https://codeclimate.com/github/guilhermeslk/laravel-realtime-chat)
 
 A realtime chat sample written in Laravel 4.2 + Redis + Node.js + Socket.io.
 
-Um exemplo de chat realtime escrito em Laravel 4.2 + Redis Node.js + Socket.io (instruções somente em inglês).
+Um exemplo de chat realtime escrito em Laravel 4.2 + Redis Node.js + Socket.io .
 
-Live example available at: http://chat.guilhermeslk.com.br :)
 
 ##Requirements
 	Laravel 4.2
@@ -19,7 +16,7 @@ Live example available at: http://chat.guilhermeslk.com.br :)
 ### Step 1: Clone this repo
 
 ```bash
-$ git clone https://github.com/guilhermeslk/laravel-realtime-chat.git
+$ git clone https://github.com/stefy63/laravel5-realtime-chat.git
 ```
 ### Step 2: Install composer packages
 
